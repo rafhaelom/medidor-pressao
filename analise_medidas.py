@@ -4,11 +4,12 @@ import numpy
 from datetime import datetime
 import psycopg2 as pg
 import matplotlib.pyplot as plt
+from openpyxl import Workbook
 
 #%% Conexão com o banco de dados
 DB_HOST = "localhost"
-DB_USER = "postgres"
-DB_PASS = "teste123"
+DB_USER = "username"
+DB_PASS = "password"
 DB_NAME = "medidor"
 
 TB_NAME = "medida"
@@ -42,6 +43,8 @@ df['hora'] = df.data_reg.apply(lambda x: x.strftime('%H:%M'))
 # %%
 print(df)
 # %% Obtendo dia da semana e periodo da hora se é AM ou PM
+# apply uma função ao longo de um eixo do DataFrame
+# lambda
 df['dia_semana'] = df.data_reg.apply(lambda x: x.strftime('%A')) 
 df['periodo_hora'] = df.data_reg.apply(lambda x: x.strftime('%p'))
 # %%
@@ -50,4 +53,5 @@ print(df)
 df.peso.plot()
 # %%
 df.peso.hist()
-# %%
+# %% Salvado base de dados
+df.to_excel('medias.xlsx', engine='openpyxl')
