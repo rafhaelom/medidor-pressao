@@ -1,0 +1,4 @@
+tk==0.1.0
+pandas==1.2.4
+psycopg2-binary
+tkinter-nav
