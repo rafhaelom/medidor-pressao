@@ -1,2 +1,2 @@
 # medidor-pressao
-Projeto monitoramento de peso e pressão arterial
+Projeto monitoramento de peso e pressão arterial.
