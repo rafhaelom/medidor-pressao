@@ -79,21 +79,21 @@ def click_sair():
 #---------------------------------------------------------------------------- 
 
 # --- Frames ---
-ladoEsquerdo = Frame(janela, width=300, height=400, bg="#1A4A5A", relief="raise")
-ladoDireito = Frame(janela, width=497, height=400, bg="#148D8D", relief="raise")
+ladoEsquerdo = Frame(janela, width=300, height=400, bg="#329542", relief="raise")
+ladoDireito = Frame(janela, width=497, height=400, bg="#63A355", relief="raise")
 # --- Imagem Logo ---
-logoLabel = Label(ladoEsquerdo, image=logo, bg="#148D8D")
+logoLabel = Label(ladoEsquerdo, image=logo, bg="#329542")
 # --- peso ---
-pesoLabel = Label(ladoDireito, text="Peso:", font=("Indie Flower", 20), bg="#148D8D", fg="white")
+pesoLabel = Label(ladoDireito, text="Peso:", font=("Indie Flower", 20), bg="#63A355", fg="white")
 pesoEntry = ttk.Entry(ladoDireito, width=20)
 # --- pas ---
-pasLabel = Label(ladoDireito, text="Pressão Arterial Sistólica:", font=("Indie Flower", 20), bg="#148D8D", fg="white")
+pasLabel = Label(ladoDireito, text="Pressão Arterial Sistólica:", font=("Indie Flower", 20), bg="#63A355", fg="white")
 pasEntry = ttk.Entry(ladoDireito, width=20)
 # --- pad ---
-padLabel = Label(ladoDireito, text="Pressão Arterial Diastólica:", font=("Indie Flower", 20), bg="#148D8D", fg="white")
+padLabel = Label(ladoDireito, text="Pressão Arterial Diastólica:", font=("Indie Flower", 20), bg="#63A355", fg="white")
 padEntry = ttk.Entry(ladoDireito, width=20)
 # --- pulsacao ---
-pulsacaoLabel = Label(ladoDireito, text="Pulsação:", font=("Indie Flower", 20), bg="#148D8D", fg="white")
+pulsacaoLabel = Label(ladoDireito, text="Pulsação:", font=("Indie Flower", 20), bg="#63A355", fg="white")
 pulsacaoEntry = ttk.Entry(ladoDireito, width=20) 
 
 # --- botoes ---
