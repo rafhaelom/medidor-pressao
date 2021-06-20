@@ -1,10 +1,9 @@
-# ---------- Bibliotecas ----------
+# ---------- Importando Bibliotecas ----------
 from tkinter import *
 from tkinter import messagebox # messagebox é a biblioteca de mensagem do tkinter.
 from tkinter import ttk # ttk é a biblioteca gráfica do tkinter.
 from datetime import datetime
 import sqlite3
-import base64
 
 # ---------- Objeto da janela principal ----------
 janela = Tk()
