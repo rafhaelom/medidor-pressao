@@ -3,6 +3,7 @@ __pycache__/
 build/
 dist/
 medidor.spec
+medidor.sqlite
 images/app_funcionando.png
 images/app_teste.png
 images/arquivos_teste.png
