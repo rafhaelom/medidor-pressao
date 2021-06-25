@@ -1,5 +1,4 @@
 tk==0.1.0
-pandas==1.2.4
 psycopg2-binary==2.8.6
 tkinter-nav==0.0.5
 db-sqlite3==0.0.1
