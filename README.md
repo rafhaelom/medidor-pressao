@@ -1,4 +1,6 @@
 # Medição e Monitoramento do Peso e da Pressão Arterial
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 ![tela-inicial](images/tela_inicial.png)
 
