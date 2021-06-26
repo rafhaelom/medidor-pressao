@@ -1,4 +1,29 @@
-# medidor-pressao
+# Medição e Monitoramento do Peso e da Pressão Arterial
+
+![tela-inicial](images/tela_inicial.png)
+
+Aplicativo desktop, onde é possível inserir seu peso, sua pressão arterial, e visualizar em um painel interativo o monitoramento diário, como também, imprimir suas medições para apresentação em consulta com o médico responsável do tratamento.
+
+## :construction: Ajustes e melhorias
+
+- [x] Construção da window.
+- [x] Criação do Banco de Dados.
+- [x] Criação do .exec no SO Windows.
+- [ ] Coleta de dados.
+- [ ] Análise dos dados coletados.
+- [ ] Painel Interativo.
+- [ ] Opção de impressão dos dados.
+
+## :computer: Pré-requisitos
+Antes de começar, será necessário os seguintes requisitos para execução deste projeto.
+
+* Linguagem de Programação Python.
+* Computador com Sistema Operacional Windows.
+* Editor de códigos.
+* Ler a documentação clicando [aqui](https://github.com/rafhaelom/medidor-pressao/blob/main/medidor_peso_e_pressao_arterial.pdf).
+
+## :rocket: Instalação
+
 Projeto monitoramento de peso e pressão arterial.
 
 # :memo: Documentação do Projeto
