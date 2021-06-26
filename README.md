@@ -1,9 +1,9 @@
 # Medição e Monitoramento do Peso e da Pressão Arterial
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 ![tela-inicial](images/tela_inicial.png)
 
+## :dart: Objetivo do projeto
 Aplicativo desktop, onde é possível inserir seu peso, sua pressão arterial, e visualizar em um painel interativo o monitoramento diário, como também, imprimir suas medições para apresentação em consulta com o médico responsável do tratamento.
 
 ## :construction: Ajustes e melhorias
