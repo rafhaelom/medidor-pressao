@@ -12,8 +12,7 @@ Aplicativo desktop, onde é possível inserir seu peso, sua pressão arterial, e
 - [x] Criação do Banco de Dados.
 - [x] Criação do .exec no SO Windows.
 - [ ] Coleta de dados.
-- [ ] Análise dos dados coletados.
-- [ ] Painel Interativo.
+- [X] Painel Interativo.
 - [ ] Opção de impressão dos dados.
 
 ## :computer: Pré-requisitos
@@ -26,30 +25,31 @@ Antes de começar, será necessário os seguintes requisitos para execução des
 
 ## :rocket: Instalação
 
-Projeto monitoramento de peso e pressão arterial.
+## :bar_chart: Painel Interativo
+A proposta do painel interativo é de ser possível ao usuário visualizar suas medições, e por meio deste ter um melhor controle dos níveis do peso e da pressão arterial. Abaixo tem-se o painel interativo:
+![painel](images/painel_interativo.png)
 
 # :memo: Documentação do Projeto
 Na documentação do projeto encontra-se a ideia do projeto, o processo de pesquisa, erros e soluções, conclusões, como também próximos passos a serem realizados.
 * Para verificar a documentção basta [clicar aqui](https://github.com/rafhaelom/medidor-pressao/blob/main/medidor_peso_e_pressao_arterial.pdf). 
 
-## Análise Exploratória dos dados coletados.
-* Para verificar [clique aqui](https://github.com/rafhaelom/DataScience/blob/master/ProjetosFaculdade/Medidor_Peso_e_Pressao_Arterial/Analise_medidor.ipynb).
-
+## :pushpin: Materiais Utilizados
 Para este projeto foi utilizado os seguintes materiais:
 * Medidor digital de pressão arterial.
 * Balança corporal digital.
 * Linguagem de Programação Python.
 * Banco de dados SQLite.
 
+## Interação da window.
 
-Tela Inicial do Projeto.
+* Tela Inicial do Projeto.
 ![tela-inicio](images/tela_inicial.png)
 
-Ao pressionar o botão de cadastro após todos os dados preenchidos, aparece a mensagem:
+* Ao pressionar o botão de cadastro após todos os dados preenchidos, aparece a mensagem:
 
 ![cadastrado](images/cadastro.png)
 
 
-Ao pressionar o botao de sair ou o de fechar a janela, aparece a mensagem:
+* Ao pressionar o botao de sair ou o de fechar a janela, aparece a mensagem:
 
 ![saindo](images/saindo.png)
