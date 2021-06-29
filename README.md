@@ -27,6 +27,7 @@ Antes de começar, será necessário os seguintes requisitos para execução des
 
 ## :bar_chart: Painel Interativo
 A proposta do painel interativo é de ser possível ao usuário visualizar suas medições, e por meio deste ter um melhor controle dos níveis do peso e da pressão arterial. Abaixo tem-se o painel interativo:
+
 ![painel](images/painel_interativo.png)
 
 # :memo: Documentação do Projeto
