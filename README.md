@@ -1,7 +1,18 @@
 # Medição e Monitoramento do Peso e da Pressão Arterial
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-![tela-inicial](images/tela_inicial.png)
+## Apresentação do projeto na Primeira JORNACIA-2021-IESB de Brasília - DF no Centro-Oeste.
+A JornaCIA, 1ª Jornada de Ciência de Dados e Inteligência Artificial de Brasília, acontecerá nos dias 1, 2 e 3 de dezembro de 2021, das 17h às 22h. Abordará temas como:
+
+- Oportunidades no mercado de trabalho para Ciência de Dados e Inteligência Artificial.
+- Aplicações de Ciência de Dados e Inteligência Artificial nas esferas de governo e na iniciativa privada.
+- Aplicações de Ciência de Dados e Inteligência Artificial em áreas específicas como na medicina, biologia, direito entre outras áreas.
+- Ensino da Ciência de Dados e Inteligência Artificial nos cursos graduação e pós-graduação.
+- Portifólios acadêmicos e profissionais.
+- Minicursos para alunos do ensino fundamental, médio, graduação e pós-graduação.
+- Workshops e cases de parceiros em Ciência de Dados e Inteligência Artificial.
+
+* Reportagem sobre o projeto: https://www.iesb.br/noticias/alunos-do-iesb-apresentam-projetos-inovadores-na-1a-jornada-de-ciencia-de-dados-e-inteligencia-artificial-de-brasilia/
 
 ## :dart: Objetivo do projeto
 Aplicativo desktop, onde é possível inserir seu peso, sua pressão arterial, e visualizar em um painel interativo o monitoramento diário, como também, imprimir suas medições para apresentação em consulta com o médico responsável do tratamento.
